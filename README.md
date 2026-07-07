@@ -9,7 +9,7 @@ What I'm Currently Building 🛠️
 Enterprise PowerShell Toolkit 🧰
 A growing collection of enterprise-grade PowerShell tools for systems administrators, infrastructure engineers, and IAM professionals.
 
-Current areas of focus include:sssssssssssssssssssssssssssssssssssssssaddddddddddddddd
+Current areas of focus include:
 
 Active Directory Automation
 Identity & Access Management (IAM)
